@@ -57,15 +57,6 @@ A smart search/query engine focused on improving information retrieval and searc
 
 **Tech:** Python, Search Logic, Backend Development
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crazyphoton007&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=crazyphoton007&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=crazyphoton007&theme=tokyo-night&hide_border=true)
 
 ---
 
