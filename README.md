@@ -82,7 +82,7 @@ A smart search/query engine project focused on improving information retrieval a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crazyphoton007&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=crazyphoton007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
