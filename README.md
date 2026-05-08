@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vikas Shukla
 
-### Data Scientist | Machine Learning Engineer | AI Product Builder 🚀
+### Software Engineer | Data Scientist | Machine Learning Engineer | AI Product Builder 🚀
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+real-world+products;Data+Science+%7C+ML+%7C+Cloud+%7C+Backend;Creator+of+caseFit+%E2%9A%96%EF%B8%8F)
 
