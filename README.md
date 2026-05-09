@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I am a **Data Scientist and ML Engineer** who enjoys building practical, real-world products using data, AI, cloud, and backend systems.
+I am a **Data Scientist and Software Engineer** who enjoys building practical, real-world products using data, AI, cloud, and backend systems.
 
 - 🔭 Currently building **caseFit** — an AI-powered legal consultation platform
 - 🤖 Interested in **AI, Machine Learning, Data Analytics, and Product Engineering**
