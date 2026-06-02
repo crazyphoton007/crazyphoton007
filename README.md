@@ -2,18 +2,23 @@
 
 ### Software Engineer | Data Scientist | Machine Learning Engineer | AI Product Builder 🚀
 
+---
 
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/crazyphoton007/crazyphoton007/output/github-contribution-grid-snake.svg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+real-world+products;Data+Science+%7C+ML+%7C+Cloud+%7C+Backend;Creator+of+caseFit+%E2%9A%96%EF%B8%8F)
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+real-world+products;Data+Science+%7C+ML+%7C+Cloud+%7C+Backend;Creator+of+caseFit+⚖️" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I am a **Data Scientist and Software Engineer** who enjoys building practical, real-world products using data, AI, cloud, and backend systems.
+I am a **Data Scientist and Software Engineer** who enjoys building practical, real-world products using Data, AI, Cloud, and Backend technologies.
 
 - 🔭 Currently building **caseFit** — an AI-powered legal consultation platform
 - 🤖 Interested in **AI, Machine Learning, Data Analytics, and Product Engineering**
@@ -36,13 +41,15 @@ I am a **Data Scientist and Software Engineer** who enjoys building practical, r
 
 ## 🚀 Featured Projects
 
-### ⚖️ caseFit - AI Legal Consultation Platform
+### ⚖️ caseFit — AI Legal Consultation Platform
 
-A real-world legal-tech product that helps users connect with the right lawyer based on their legal matter.
+A real-world LegalTech product that helps users connect with the right lawyer based on their legal matter.
 
-- 🌐 [Live Website](https://thecasefit.com)
-- ⚙️ [Backend API Docs](https://api.thecasefit.com/docs)
-- 📱 Android App — Coming Soon
+🌐 **Live Website:** https://thecasefit.com
+
+⚙️ **Backend API Docs:** https://api.thecasefit.com/docs
+
+📱 **Android App:** Coming Soon
 
 **Tech Stack:** React Native, Expo, FastAPI, PostgreSQL, AWS, Razorpay
 
@@ -62,32 +69,57 @@ A smart search/query engine focused on improving information retrieval and searc
 
 **Tech:** Python, Search Logic, Backend Development
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crazyphoton007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyphoton007&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=crazyphoton007&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=crazyphoton007&theme=tokyonight&no-frame=true&row=1&column=6)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=crazyphoton007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
----
-
+> If trophies do not load, the trophy service is temporarily down. 
 
 ---
 
 ## 👀 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=crazyphoton007&style=for-the-badge&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=crazyphoton007&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Shukla-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikas-shukla-48063b78/)
+
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:vikasofficial927@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-crazyphoton007-black?style=for-the-badge&logo=github)](https://github.com/crazyphoton007)
 
 ---
 
-### 💡 Quote
+## 💡 Quote
 
-**“I build with data, AI, and purpose.”**
+> **"I build with data, AI, and purpose."**
+
+---
+
+### ⭐ If you like my work, consider following me and checking out my repositories.
