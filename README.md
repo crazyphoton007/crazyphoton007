@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vikas Shukla
 
-### Software Engineer | Machine Learning Engineer | AI Product Builder 🚀
+### Data Scientist | Software Engineer | Machine Learning Engineer | AI Product Builder 🚀
 
 ---
 
