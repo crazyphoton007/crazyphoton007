@@ -49,7 +49,7 @@ A real-world LegalTech product that helps users connect with the right lawyer ba
 
 ⚙️ **Backend API Docs:** https://api.thecasefit.com/docs
 
-📱 **Android App:** Coming Soon
+📱 **Android App:** https://play.google.com/store/apps/details?id=com.casefit.india
 
 **Tech Stack:** React Native, Expo, FastAPI, PostgreSQL, AWS, Razorpay
 
